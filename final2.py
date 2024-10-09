@@ -2,8 +2,15 @@
 productos = {
     "1": {"nombre": "Camisa", "precio": 90.0, "cantidad": 10},
     "2": {"nombre": "Pantalon", "precio": 200.0, "cantidad": 15},
-    "3": {"nombre": "Zapato", "precio": 350.0, "cantidad": 20}
-}
+    "3": {"nombre": "Zapato", "precio": 350.0, "cantidad": 20},
+    "4": {"nombre": "Tennis", "precio": 600.0, "cantidad": 10},
+    "5": {"nombre": "Chumpa", "precio": 450.0, "cantidad": 12},
+    "6": {"nombre": "Pants", "precio": 290.0, "cantidad": 50},
+    "7": {"nombre": "Cinturon", "precio": 150.0, "cantidad": 18},
+    "8": {"nombre": "Playera", "precio": 150.0, "cantidad": 15},
+    "9": {"nombre": "Sueter", "precio": 300.0, "cantidad": 10},
+    "10": {"nombre": "Gorra", "precio": 180.0, "cantidad": 12}
+} 
 
 descuentos = {
     "10%": 0.1,
